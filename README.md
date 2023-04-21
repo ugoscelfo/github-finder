@@ -1,5 +1,5 @@
 # Github Finder
 
-Simple React project using github API to fetch users.
+A react app to search Github profiles and see profile details.
 
 Design made using Taiwind CSS and DaisyUI
